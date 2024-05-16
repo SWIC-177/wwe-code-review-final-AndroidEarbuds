@@ -1,3 +1,4 @@
+// Function to create a table component with two columns
 export default function Table({ col1, col2, col1Header, col2Header }) {
   return `
     <table class="container mx-auto text-left max-w-fit">

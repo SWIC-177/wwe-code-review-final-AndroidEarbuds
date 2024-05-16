@@ -1,3 +1,4 @@
+// Function to create a search input component
 export default function Search({ searchValue }) {
   return `
       <div class="mb-4">

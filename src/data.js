@@ -1,3 +1,4 @@
+// Array containing different championship belts
 export const BELTS = [
   "Undisputed WWE Champion",
   "World Heavyweight Champion",
@@ -15,6 +16,7 @@ export const BELTS = [
   "NXT Heritage Cup Champion",
 ];
 
+// Array containing current champions names
 export const CHAMPIONS = [
   "Cody Rhodes",
   "Damian Priest",
